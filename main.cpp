@@ -4,9 +4,9 @@
 
 using namespace std;
 
-double Y(double, double, double, double);
-
 double Radical(double, double, double, double, double, double);
+
+double Y(double, double, double, double);
 
 int main()
 {
