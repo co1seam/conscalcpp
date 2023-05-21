@@ -6,7 +6,7 @@ using namespace std;
 
 double Y(double, double, double, double);
 
-double Radical(double _x1, double _x2, double _eps, double _a, double _b, double _c);
+double Radical(double, double, double, double, double, double);
 
 int main()
 {
